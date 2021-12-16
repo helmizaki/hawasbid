@@ -1,0 +1,189 @@
+.Main__controls_1d7bsga8[data-v-e9185a48] {
+    width: 100%;
+    max-width: 510px;
+    position: fixed;
+    padding: 0px 11px;
+    user-select: none;
+    z-index: 10000000;
+    background: white;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    align-items: center
+}
+
+.Main__controls_1d7bsga8 .Main__play-btn-wrap_x5pQSEfb[data-v-e9185a48] {
+    margin: 0 0px
+}
+
+.Main__controls_1d7bsga8 .Main__play-btn-wrap_x5pQSEfb div[data-v-e9185a48] {
+    cursor: pointer;
+    height: 32px;
+    width: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center
+}
+
+.Main__controls_1d7bsga8 .Main__play-btn-wrap_x5pQSEfb svg[data-v-e9185a48] {
+    width: 14px;
+    height: auto;
+    cursor: pointer
+}
+
+.Main__controls_1d7bsga8 .Main__controls-wrap_3U3nEvol[data-v-e9185a48] {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    padding: 8px 0;
+    align-items: center
+}
+
+.Main__controls_1d7bsga8 .Main__controls-wrap_3U3nEvol .Main__time_IdhjO9hP[data-v-e9185a48] {
+    white-space: nowrap;
+    margin-right: 10px;
+    margin-left: 2px;
+    font-size: 10px;
+    font-family: "Didact Gothic"
+}
+
+.Main__controls_1d7bsga8 .Main__controls-wrap_3U3nEvol .Main__progress_PWbxBj3c[data-v-e9185a48] {
+    margin: 0 5px;
+    max-width: 343px;
+    flex-shrink: unset;
+    width: 100%
+}
+
+.Main__controls_1d7bsga8 .Main__controls-wrap_3U3nEvol .Main__duration_2uU0QLly[data-v-e9185a48] {
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 10px;
+    font-family: "Didact Gothic"
+}
+
+.Main__controls_1d7bsga8 .Main__controls-wrap_3U3nEvol .Main__volume_2sFz3dVC[data-v-e9185a48] {
+    flex-shrink: unset;
+    margin: 0 5px;
+    width: 100px
+}
+
+.Main__tl_2eCs-W85[data-v-e9185a48] {
+    top: 15%;
+    right: calc(100% - 38px);
+    padding-right: 3px
+}
+
+.Main__tl_2eCs-W85 .Main__play-btn-wrap_x5pQSEfb div[data-v-e9185a48] {
+    margin-left: 5px
+}
+
+.Main__tl_2eCs-W85[data-v-e9185a48]:hover {
+    right: unset;
+    left: -4px;
+    padding-right: 11px;
+    padding-left: 0px
+}
+
+.Main__tl_2eCs-W85:hover .Main__play-btn-wrap_x5pQSEfb[data-v-e9185a48] {
+    order: 0
+}
+
+.Main__tl_2eCs-W85:hover .Main__play-btn-wrap_x5pQSEfb div[data-v-e9185a48] {
+    padding-left: 5px;
+    margin-left: unset
+}
+
+.Main__tl_2eCs-W85 .Main__play-btn-wrap_x5pQSEfb[data-v-e9185a48] {
+    order: 1
+}
+
+.Main__bl_3NKsjgYi[data-v-e9185a48] {
+    bottom: 15%;
+    right: calc(100% - 38px);
+    padding-right: 3px
+}
+
+.Main__bl_3NKsjgYi .Main__play-btn-wrap_x5pQSEfb div[data-v-e9185a48] {
+    margin-left: 5px
+}
+
+.Main__bl_3NKsjgYi[data-v-e9185a48]:hover {
+    right: unset;
+    left: -4px;
+    padding-right: 11px;
+    padding-left: 0px
+}
+
+.Main__bl_3NKsjgYi:hover .Main__play-btn-wrap_x5pQSEfb[data-v-e9185a48] {
+    order: 0
+}
+
+.Main__bl_3NKsjgYi:hover .Main__play-btn-wrap_x5pQSEfb div[data-v-e9185a48] {
+    padding-left: 5px;
+    margin-left: unset
+}
+
+.Main__bl_3NKsjgYi .Main__play-btn-wrap_x5pQSEfb[data-v-e9185a48] {
+    order: 1
+}
+
+.Main__tr_3I2WpakI[data-v-e9185a48] {
+    top: 15%;
+    left: calc(100% - 38px);
+    padding-left: 3px
+}
+
+.Main__tr_3I2WpakI .Main__play-btn-wrap_x5pQSEfb div[data-v-e9185a48] {
+    margin-right: 5px
+}
+
+.Main__tr_3I2WpakI[data-v-e9185a48]:hover {
+    left: unset;
+    right: -4px;
+    padding-right: 5px;
+    padding-left: 11px
+}
+
+.Main__tr_3I2WpakI:hover .Main__play-btn-wrap_x5pQSEfb[data-v-e9185a48] {
+    order: 1;
+    margin-left: 10px
+}
+
+.Main__tr_3I2WpakI:hover .Main__play-btn-wrap_x5pQSEfb div[data-v-e9185a48] {
+    margin-right: unset
+}
+
+.Main__tr_3I2WpakI .Main__play-btn-wrap_x5pQSEfb[data-v-e9185a48] {
+    order: 0
+}
+
+.Main__br_1ErROjdI[data-v-e9185a48] {
+    bottom: 15%;
+    left: calc(100% - 38px);
+    padding-left: 3px
+}
+
+.Main__br_1ErROjdI .Main__play-btn-wrap_x5pQSEfb div[data-v-e9185a48] {
+    margin-right: 5px
+}
+
+.Main__br_1ErROjdI[data-v-e9185a48]:hover {
+    left: unset;
+    right: -4px;
+    padding-right: 5px;
+    padding-left: 11px
+}
+
+.Main__br_1ErROjdI:hover .Main__play-btn-wrap_x5pQSEfb[data-v-e9185a48] {
+    order: 1;
+    margin-left: 10px
+}
+
+.Main__br_1ErROjdI:hover .Main__play-btn-wrap_x5pQSEfb div[data-v-e9185a48] {
+    margin-right: unset
+}
+
+.Main__br_1ErROjdI .Main__play-btn-wrap_x5pQSEfb[data-v-e9185a48] {
+    order: 0
+}

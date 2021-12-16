@@ -1,0 +1,25 @@
+.widget-content .widget-content-left .widget-heading {
+    opacity: 1;
+    font-weight: 700;
+}
+
+.app-header.header-text-light .app-header-right>.header-btn-lg .widget-heading {
+    color: white;
+}
+
+.table.dataTable thead>tr>td.sorting,
+table.dataTable thead>tr>td.sorting_asc,
+table.dataTable thead>tr>td.sorting_desc,
+table.dataTable thead>tr>th.sorting,
+table.dataTable thead>tr>th.sorting_asc,
+table.dataTable thead>tr>th.sorting_desc {
+    background-image: linear-gradient(to top, #0ba360 0, #3cba92 100%) !important;
+    color: white;
+    text-align: center;
+}
+
+.btn-primary {
+    color: #fff;
+    background-image: linear-gradient(to top, #0ba360 0, #3cba92 100%) !important;
+    border-color: white !important;
+}
